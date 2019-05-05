@@ -1,1 +1,1 @@
-var test = 'merge1'
+var test = 'merge2'
