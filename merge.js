@@ -1,2 +1,2 @@
-  var test = 'merge1'
+  var test = 'merge2'
 console.log(`=>, ${test}`)
